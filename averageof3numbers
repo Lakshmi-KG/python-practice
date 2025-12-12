@@ -1,0 +1,10 @@
+#average of 3 numbers
+a=10
+b=22
+c=45
+sum=a+b+c
+avg=sum/3
+print(f"average of {a},{b},{c} is : {avg}")
+print("%0.2f" %avg)
+print("hello",end=" ")
+print("how are you")

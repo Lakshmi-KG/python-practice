@@ -1,4 +1,4 @@
-# python-practice
+# Python-Practice
 small python files organized by topic
 
 ## Run
